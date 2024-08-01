@@ -1,4 +1,4 @@
 # Practice
-Practice to Devops course 
+Devops Course Git hub
 <br>
-Author umar 
+Author - Umar Alam 
